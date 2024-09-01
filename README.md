@@ -6,4 +6,4 @@
   2. Run the Python notebooks in sequential order to train the models and collect the results. Each model is seperated into its own subsection.
 
 
-[embed]./SML_Project_Report.pdf[/embed]
+<object data="./SML_Project_Report.pdf" width="1000" height="1000" type='application/pdf'></object>
